@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-*可以link到国科大教育业务云平台
+* 可以link到国科大教育业务云平台
+
+* 所添加的1-4
 
 * Ruby version
 
