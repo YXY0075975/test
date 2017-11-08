@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * 可以link到国科大教育业务云平台
 
-* 所添加的1-4
+* 所添加的1-4.png为所测试的效果
 
 * Ruby version
 
